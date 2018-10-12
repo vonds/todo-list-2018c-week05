@@ -1,4 +1,4 @@
-# 🔢 Week05 Bootcamp2018c Project: Todo List
+# ✅ Week05 Bootcamp2018c Project: Todo List
 
 ### Goal: Build a Simple Todo List
 
