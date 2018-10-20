@@ -4,8 +4,6 @@ This project was a simple todo list. It took me longer than anticipated to finis
 
 
 
-link to project here: https://confident-almeida-472564.netlify.com/
-
 How it was made:
 ============================================
 
